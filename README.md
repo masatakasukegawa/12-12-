@@ -7,8 +7,11 @@ IDEはeclipseです
 拡張機能としてJava　EEつかってます
 
 今回は三か所に作ったファイルを乗っけてあります
+
 ・jsp,html,css→Testuke直下
+
 ・Servert・マネージャー→[Testsuke/WEB-INF src/DataBase/]
+
 ・キャラクタークラス→[Testsuke/WEB-INF src/Model/]
 
 jspファイルはほぼHTMLファイルです。フロントエンドの動きをするファイルです
