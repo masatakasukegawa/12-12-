@@ -1,0 +1,13 @@
+.content{
+	background-color:pink;
+}
+
+
+/* 下の二つはなぜか実装されない、、、*/
+.row{
+	background-color:aeb5dc;
+}
+
+h1{
+	font-family:serif;
+}
